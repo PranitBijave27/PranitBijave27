@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Python+Developer;Pygame+Game+Creator;Frontend+Designer;Java+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Python+Developer;Love coding in C++ ;Pygame+Game+Creator;Frontend+Designer;Java+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,8 +13,8 @@
 ## 🧑‍💻 About Me:
 
 - 🎮 I love building games using **Pygame**
-- 💻 I code in **Python**, **Java**, **HTML**, and **CSS**
-- 🚀 Currently learning **Django** and improving my **Git/GitHub** skills
+- 💻 I code in **Python**,**C++** ,**Java**, **HTML**, and **CSS**
+- 🚀 Currently learning **Django** and improving my **DSA in C++** skills
 - 📚 College student with a passion for tech
 - 🌱 Always curious and ready to learn something new!
 
@@ -24,6 +24,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" width="100" height="35" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" width="100" height="35" style="transition: transform 0.3s;"/>
   <img src="https://img.shields.io/badge/Pygame-1B1F23?style=flat&logo=python&logoColor=green" alt="Pygame" width="100" height="35" style="transition: transform 0.3s;"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" width="100" height="35" style="transition: transform 0.3s;"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="100" height="35" style="transition: transform 0.3s;"/>
