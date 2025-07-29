@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#00BFFF;">Pranit Bijave</span>
+  Hi there 👋, I'm <span><b><font color="#00BFFF">Pranit Bijave</font></b></span>
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me:
 
 - 🎮 I love building games using **Pygame**
-- 💻 I code in **Python**,**C++** ,**Java**, **HTML**, and **CSS**
+- 💻 I code in **Python**, **C++**, **Java**, **HTML**, and **CSS**
 - 🚀 Currently learning **Django** and improving my **DSA in C++** skills
 - 📚 College student with a passion for tech
 - 🌱 Always curious and ready to learn something new!
@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" width="100" height="35" style="transition: transform 0.3s;"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="100" height="35" style="transition: transform 0.3s;"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" width="100" height="35" style="transition: transform 0.3s;"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" width="100" height="35" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" width="100" height="35" />
+
 </p>
 
 ---
@@ -83,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=280&lines=Thanks+for+visiting!+;See+you+around+%F0%9F%91%8B" alt="Thanks for visiting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=280&lines=Thanks+for+visiting!" alt="Thanks for visiting" />
 </p>
 
 
