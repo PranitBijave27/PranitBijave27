@@ -5,15 +5,18 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Python+Developer;Love coding in C++ ;Pygame+Game+Creator;Frontend+Designer;Java+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Problem+Solver+%7C+DSA+Enthusiast;Java+%26+C%2B%2B+Programmer;Python+Developer;Frontend+Designer;Passionate+Tech+Learner" alt="Typing SVG" />
 </p>
+
+
+
 
 ---
 
 ## 🧑‍💻 About Me:
 
 - 🎮 I love building games using **Pygame**
-- 💻 I code in **Python**, **C++**, **Java**, **HTML**, and **CSS**
+- 💻 I code in **Python**, **C++**, **Java**
 - 🚀 Currently learning **Django** and improving my **DSA in C++** skills
 - 📚 College student with a passion for tech
 - 🌱 Always curious and ready to learn something new!
