@@ -58,8 +58,6 @@
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranitBijave27&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranitBijave27&theme=radical" alt="GitHub Streak" />
 </p>
 
